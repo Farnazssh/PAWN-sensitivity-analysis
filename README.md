@@ -8,5 +8,4 @@ References:
 - Pianosi, F., & Wagener, T. (2015). A simple and efficient method for global sensitivity analysis based on cumulative distribution functions. Environmental Modelling & Software, 67, 1-11. https://doi.org/10.1016/j.envsoft.2015.01.004
 
 - Vogel, R. M., & Sankarasubramanian, A. (2003). Validation of a watershed model without calibration. Water Resour. Res., 39(1292). https://doi.org/10.1029/2002WR001940
-![image](https://github.com/user-attachments/assets/84a0de4b-323a-4ce2-9408-5b6709015db5)
 
