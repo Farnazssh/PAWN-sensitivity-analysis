@@ -1,5 +1,5 @@
 # PAWN-sensitivity-analysis
-In this repository, the PAWN sensitivity indices are implemented for the Ishigami-Homma function, a benchmark model used as a numerical example (Pianosi, F., & Wagener, T. (2015)). The PAWN sensitivity indices are also applied to identify the most influential parameters in the abc model, a watershed water balance model, as described in Vogel & Sankarasubramanian (2003).
+In this repository, the PAWN sensitivity indices are implemented for the Ishigami-Homma function, a benchmark model used as a numerical example (Pianosi, F., & Wagener, T. (2015)). The PAWN sensitivity indices are also applied to rank the most influential parameters in the abc model, a watershed water balance model with 3 parameters, as described in Vogel & Sankarasubramanian (2003).
 
 PAWN sensitivity analysis is a density-based sensitivity index that measures the sensitivity to input xi by the distance between the unconditional CDF of y, which is obtained when all inputs vary simultaneously, and the conditional CDF of y, which is obtained when varying all inputs but xi (i.e., xi is fixed at a nominal value xi).
 
